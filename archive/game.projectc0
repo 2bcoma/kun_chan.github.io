@@ -154,7 +154,8 @@ cssfile = /builtins/manifests/web/light_theme.css
 archive_location_prefix = archive
 show_fullscreen_button = 0
 show_made_with_defold = 0
-scale_mode = fit
+scale_mode = downscale_fit
+splash_image = /assets/game/background.png
 
 [particle_fx]
 max_count = 64
